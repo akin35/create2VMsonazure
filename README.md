@@ -1,4 +1,4 @@
-# @assignment4@
+# @creating 2 VMs on azure@
 ## VM creating on Azure Portal
 
  
